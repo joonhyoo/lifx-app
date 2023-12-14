@@ -26,6 +26,7 @@ function Landing(props: Prop) {
       } else {
         setErrorMessage("Invalid API Key. Please enter a valid key");
       }
+      // resets form on submission
       setApiKey("");
     }
   };
