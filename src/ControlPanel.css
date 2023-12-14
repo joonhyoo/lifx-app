@@ -1,0 +1,5 @@
+.control-panel {
+  padding-top: 10svh;
+  display: grid;
+  gap: 50px;
+}

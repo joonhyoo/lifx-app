@@ -1,0 +1,29 @@
+.landing-flexbox {
+  height: 90svh;
+  display: flex;
+}
+
+.landing-container {
+  border: 1px solid white;
+  border-radius: 10px;
+  height: 400px;
+  width: 325px;
+  text-align: center;
+  margin: auto;
+}
+
+.disclaimer {
+  color: rgb(253, 144, 94);
+  padding: 50px;
+}
+
+.api-input {
+  display: grid;
+  gap: 5px;
+  width: 200px;
+  margin: auto;
+}
+
+.errormsg {
+  color: red;
+}

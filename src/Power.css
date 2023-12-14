@@ -1,0 +1,21 @@
+
+.switch-container {
+  margin: auto;
+  border-radius: 30px;
+  border: 1px solid white;
+  height: 130px;
+  width: 300px;
+  background-color: rgb(50, 50, 50);
+  text-align: center;
+}
+
+.light-name {
+  color: white;
+}
+
+.switch {
+  height: 50px;
+  width: 120px;
+  border: none;
+  border-radius: 10px;
+}
